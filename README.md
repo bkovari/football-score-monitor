@@ -4,12 +4,12 @@ Image Processing and Graphics subject in University of Obuda John von Neumann Fa
 The software was written in Python 2.7 using _pytesseract_ and _OpenCV 3.4_ libraries.
 
 ## Prerequisites
-First Tesseract OCR (Optical Character Recognition) has to be installed. Here you can download the compatible 
+First Tesseract OCR (Optical Character Recognition) software has to be installed. Here you can download the compatible 
 one for your system:
 
 https://sourceforge.net/projects/tesseract-ocr-alt/files/
 
-I used tesseract-ocr-setup-3.02.02.exe installer on Windows system.
+I used _tesseract-ocr-setup-3.02.02.exe_ installer on Windows system.
 
 ## Development
 The software was implemented in Python 2.7, using PyCharm Community Edition IDE. Using PyCharm, the main folder can be
