@@ -1,7 +1,9 @@
 # Football Monitor
 This repository includes a football score monitoring software. The program was made for a home assignment for 
-Image Processing and Graphics subject in University of Obuda John von Neumann Faculty of Informatics.
+Image Processing and Graphics subject in University of Obuda John von Neumann Faculty of Informatics. 
 The software was written in Python 2.7 using _pytesseract_ and _OpenCV 3.4_ libraries.
+
+The program assumes video material from https://www.youtube.com/watch?v=0yq3gsTr7H4
 
 ## Prerequisites
 First Tesseract OCR (Optical Character Recognition) software has to be installed. Here you can download the compatible 
